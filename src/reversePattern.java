@@ -16,5 +16,7 @@ public class reversePattern {
 			}
 			System.out.println("");
 		}
+		
 	}
+	
 }
